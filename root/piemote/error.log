@@ -1,0 +1,2 @@
+/piemote/Modular_1/PiEmote.py:16: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(CAMLED, GPIO.OUT, initial=False)
