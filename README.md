@@ -13,12 +13,12 @@ Steps:
 7. Start making silly faces when the strobe light on the Pi goes red and watch as the Lifx light changes colours based on your facial emotions!
 
 In its current setting, colour map for the emotions is:-
-Anger/ Contempt - Red
-Disgust         - Green
-Fear            - Yellow
-Happiness       - Pink
-Neutral         - White
-Sadness         - Blue
+Anger/ Contempt - Red,
+Disgust         - Green,
+Fear            - Yellow,
+Happiness       - Pink,
+Neutral         - White,
+Sadness         - Blue,
 Surprise        - Orange
 
 The above colour map can however be altered as needed by making changes to the database
