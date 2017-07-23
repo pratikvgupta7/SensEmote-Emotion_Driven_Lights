@@ -1,4 +1,4 @@
-# SensEmote-Emotion_Driven_Lights
+# SensEmote-Emotion_Controlled_Lights
 Light (Lifx) colours respond to facial emotions using Microsoft Emotion API and Raspberry Pi
 
 Raspberry Pi drives changes in colours to Lifx lights by capturing emotions and interpreting them using Microsoft Emotion API
